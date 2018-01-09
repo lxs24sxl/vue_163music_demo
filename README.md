@@ -1,6 +1,7 @@
 # vue版-网易云音乐网页版demo
 
-网易云音乐网页版-vue实现
+- 网易云音乐网页版-vue实现
+- git clone的时候会有点慢,我把音乐文件和图片资源都下载下来了orz
 
 #### 背景
 - 初学js/vue.js时做的demo (现在看觉得代码觉得特别垃圾哈哈哈(虽然现在也是2333),等找到工作以后，有时间再重构这个demo的代码)
@@ -15,6 +16,11 @@
 - vue-cookies: 操作cookies方法库
 - vue-directive-touch: 手势组件库
 - vue-lazyload: 懒加载组件库
+
+#### 效果图
+![全部页面的gif](https://github.com/lxs24sxl/readme_add_pic/raw/master/images/163music/163music_result1.gif)
+
+![播放页面](https://github.com/lxs24sxl/readme_add_pic/raw/master/images/163music/play.PNG)
 
 #### 环境搭建（安装运行前请确定已安装node环境）
 - 环境安装: npm install
